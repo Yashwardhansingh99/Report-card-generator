@@ -12,6 +12,7 @@ Then after taking all subjects marks we calculate the total marks and based on t
 
 
 
+
 Grade A  Total marks secured between 450-500
 
 Grade B Total marks secured between 400-449 
