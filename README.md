@@ -3,7 +3,9 @@
 In this we write a C program to generate the report card of a student based on his marks secured in the final examination.  
 
 first we take user input: Student name  Standard (Class) Section Marks secured in 
+
 ● Mathematics ● English ● Hindi ● Science ● Social Science 
+
 according to need we use while ((getchar()) != '\n') for clear the input buffer. 
 
 Then after taking all subjects marks we calculate the total marks and based on the total marks we provide grade to student.  
